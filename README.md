@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **andromansky@gmail.com**
 
-- 📄 Know about my experiences [https://www.codewars.com/users/andromansky/badges/large](https://www.codewars.com/users/andromansky/badges/large)
+- 📄 Know about my experiences [https://www.codewars.com/users/andromansky/badges/large](https://www.codewars.com/users/andromansky)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
