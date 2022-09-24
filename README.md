@@ -9,7 +9,7 @@
 
 <a href="http://t.me/spocksbeard" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
-- 📄 Know about my experiences  <a href="https://www.codewars.com/users/andromansky" target="blank"><img align="center" src="https://www.codewars.com/users/andromansky/badges/large" alt="andromansky"/></a>
+<a href="https://www.codewars.com/users/andromansky" target="blank"><img align="center" src="https://www.codewars.com/users/andromansky/badges/large" alt="andromansky"/></a>
 
 <h3 align="left">Try my best at:</h3>
 <p align="left">
