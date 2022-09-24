@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **Progressive rock or some other frontend/backend stuff**
 
-- 📫 How to reach me **andromansky@gmail.com**
+- 📫 How to reach me **andromansky@gmail.com** 
+
+<a href="t.me/spocksbeard" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
 - 📄 Know about my experiences  <a href="https://www.codewars.com/users/andromansky" target="blank"><img align="center" src="https://www.codewars.com/users/andromansky/badges/large" alt="andromansky"/></a>
 
