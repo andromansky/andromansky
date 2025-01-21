@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">A bit of a smart guy from this lovely planet Earth</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andromansky&label=Profile%20views&color=0e75b6&style=flat" alt="andromansky" /> </p>
-
 - 💬 Ask me about **Progressive rock or some other frontend/backend stuff**
 
 - 📫 How to reach me **andromansky@gmail.com** 
